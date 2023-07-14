@@ -1,0 +1,48 @@
+.container {
+    background-image: url("https://media.istockphoto.com/id/1134867308/vector/download-progress-bar-or-round-indicator-of-speed.jpg?s=612x612&w=0&k=20&c=mPx4rhLDjmbqJgZsfVIPFl9fpIrI4DGaEu3lpNadbg4=");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+h1{
+    color: #ffffff;
+}
+p{
+    color: #ffffff;
+}
+.color{
+    color: black;
+}
+.cardContainer {
+    background-color: #f3eaff;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid #9aa5b1;
+}
+
+h1 {
+    color: #690cb0;
+}
+
+#submitBtn {
+    background-color: #690cb0;
+    color: white;
+}
+
+#resetBtn {
+    background-color: #f2ebf3;
+}
+
+img {
+    height: 60px;
+}
+
+span {
+    font-size: 16px;
+}
+
+#timer {
+    font-size: 40px;
+}
